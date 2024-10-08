@@ -1,0 +1,6 @@
+C:\Dev\nihil\nihil-scripting\CSharp\Script\bin\Debug\Script.dll
+C:\Dev\nihil\nihil-scripting\CSharp\Script\bin\Debug\Script.pdb
+C:\Dev\nihil\nihil-scripting\CSharp\Script\obj\Debug\Script.csproj.AssemblyReference.cache
+C:\Dev\nihil\nihil-scripting\CSharp\Script\obj\Debug\Script.csproj.CoreCompileInputs.cache
+C:\Dev\nihil\nihil-scripting\CSharp\Script\obj\Debug\Script.dll
+C:\Dev\nihil\nihil-scripting\CSharp\Script\obj\Debug\Script.pdb
